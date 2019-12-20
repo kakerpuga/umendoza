@@ -1020,12 +1020,12 @@ html .btn-light:active,
 html .btn-light.active {
 	background-color: #ececec !important;
 	background-image: none !important;
-	border-color: #e6e6e6 #e6e6e6 #cccccc !important;
+	border-color: #e6e6e6 #e6e6e6 #8f7f34 !important;
 }
 
 html .btn-light-scale-2 {
 	background-color: #e6e6e6;
-	border-color: #e6e6e6 #e6e6e6 #cccccc;
+	border-color: #e6e6e6 #e6e6e6 #8f7f34;
 	color: #777;
 }
 
@@ -4380,23 +4380,23 @@ html #header .header-top.header-top-light .dropdown-menu a:focus {
 }
 
 .testimonial blockquote {
-	background: ##8f7f34;
+	background: #8f7f34;
 }
 
 .testimonial .testimonial-arrow-down {
-	border-top-color: ##8f7f34;
+	border-top-color: #8f7f34;
 }
 
 html .testimonial-primary blockquote {
-	background: ##8f7f34;
+	background: #8f7f34;
 }
 
 html .testimonial-primary .testimonial-arrow-down {
-	border-top-color: ##8f7f34;
+	border-top-color: #8f7f34;
 }
 
 html .testimonial-primary.testimonial-style-7 {
-	background: ##8f7f34;
+	background: #8f7f34;
 }
 
 html .testimonial-quotes-primary blockquote:before,
